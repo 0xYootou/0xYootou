@@ -26,5 +26,5 @@ me.school('南京理工大学');
 me.major('电子科学与技术');
 // others
 me.isMarry = true;
-me.hasChild = true;
+me.hasChild = false;
 ```
