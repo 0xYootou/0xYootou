@@ -20,9 +20,9 @@ me.language('JS/NodeJS/iOS/Java');
 me.skill('可视化/跨端/GIS/工程化/全栈/团队管理');
 // my school and company
 me.company({
-  2020: '预策科技',
-  2013: '大搜车',
-  2009: '淘宝',
+  2020: '预策科技 技术总监',
+  2013: '大搜车 资深技术专家',
+  2009: '淘宝 前端开发',
 });
 me.school('南京理工大学');
 me.major('电子科学与技术');
