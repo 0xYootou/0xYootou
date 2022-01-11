@@ -25,15 +25,17 @@ MY BLOG：https://yootou.com
 
 **Framework**
 
-![NestJS](https://img.shields.io/badge/-NestJs-000?&logo=NestJS)
+
 ![NextJS](https://img.shields.io/badge/-Next.js-000?&logo=NextdotJS)
 ![DeckGL](https://img.shields.io/badge/-Deck.gl-000?&logo=webgl)
-![Hugo](https://img.shields.io/badge/-Hugo-000?&logo=Hugo)
 ![Vue](https://img.shields.io/badge/-Vue-000?&logo=Vuedotjs)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![web.js](https://img.shields.io/badge/-web3.js-000?&logo=web3dotjs)
 ![ethers.js](https://img.shields.io/badge/-ethers.js-000?&logo=ethereum)
-
+![NestJS](https://img.shields.io/badge/-NestJs-000?&logo=NestJS)
+![Prisma](https://img.shields.io/badge/-Prisma-000?&logo=Prisma)
+![GraphQL](https://img.shields.io/badge/-GraphQL-000?&logo=GraphQL)
+![Hugo](https://img.shields.io/badge/-Hugo-000?&logo=Hugo)
 
 
 **Social Media**
