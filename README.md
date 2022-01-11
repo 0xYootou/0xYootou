@@ -15,6 +15,7 @@
 
 ![Dart](https://img.shields.io/badge/Dart-C-orange?&logo=Dart&labelColor=000)
 ![C++](https://img.shields.io/badge/C++-C-orange?&logo=C++&labelColor=000)
+
 ![Swift](https://img.shields.io/badge/Swift-D-orange?&logo=Swift&labelColor=000)
 
 
@@ -28,9 +29,8 @@
 ![Arduino](https://img.shields.io/badge/Arduino-A-green?&logo=Arduino&labelColor=000)
 ![ethereum](https://img.shields.io/badge/Web3-B-yellow?&logo=ethereum&labelColor=000)
 
-
+![management](https://img.shields.io/badge/Management-A-yellow?&logo=personio&labelColor=000)
 ![Production](https://img.shields.io/badge/Product-B-yellow?&logo=producthunt&labelColor=000)
-![management](https://img.shields.io/badge/Management-B-yellow?&logo=personio&labelColor=000)
 ![Design](https://img.shields.io/badge/Design-B-yellow?&logo=sketch&labelColor=000)
 
 
@@ -45,9 +45,9 @@
 ![web.js](https://img.shields.io/badge/web3.js-B-yellow?&logo=web3dotjs&labelColor=000)
 ![ethers.js](https://img.shields.io/badge/ethers.js-B-yellow?&logo=ethereum&labelColor=000)
 
-![NestJS](https://img.shields.io/badge/NestJs-B-yellow?&logo=NestJS&labelColor=000)
-![Prisma](https://img.shields.io/badge/Prisma-A-green?&logo=Prisma&labelColor=000)
-![GraphQL](https://img.shields.io/badge/GraphQL-A-green?&logo=GraphQL&labelColor=000)
+![NestJS](https://img.shields.io/badge/NestJs-A-yellow?&logo=NestJS&labelColor=000)
+![Prisma](https://img.shields.io/badge/Prisma-B-green?&logo=Prisma&labelColor=000)
+![GraphQL](https://img.shields.io/badge/GraphQL-B-green?&logo=GraphQL&labelColor=000)
 
 ![Hugo](https://img.shields.io/badge/Hugo-B-yellow?&logo=Hugo&labelColor=000)
 
