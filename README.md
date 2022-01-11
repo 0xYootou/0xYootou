@@ -86,25 +86,6 @@ me.zhihu('https://zhihu.com/people/li-shou-xin')
 // my skill
 me.language('JS/NodeJS/OC/Java/Dart/c++等');
 me.skill('可视化/跨端/GIS/工程化/全栈/区块链/arduino/团队管理等');
-// my personal project
-me.app([
-  {
-    name: "颜文字输入法",
-    description: "百万用户，已出售，甲方破产下架无法重新上架",
-  },
-  {
-    name: "喵老师绘本故事",
-    url: "https://apps.apple.com/cn/app/id998079819"
-    description: "260 期语音故事，10W+ 用户，还在更新中"
-  }
-]);
-me.site([
-  {
-    name: "前端乱炖",
-    url: "http://html-js.com"
-    description: "上个时代最火的前端社区，后因工作原因荒废，评论内容都已清空，文章都还在"
-  }
-])
 // my company
 me.company({
   2020: '预策科技 技术总监',
