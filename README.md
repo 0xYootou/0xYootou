@@ -29,14 +29,13 @@
 **Skill**
 
 ![FrontEnd-DEV](https://img.shields.io/badge/FrontEnd--DEV-A-green?logo=HTML5&labelColor=000)
-![BackEnd-DEV](https://img.shields.io/badge/BackEnd--DEV-B-yellow?logo=linux&labelColor=000)
-![APP-DEV](https://img.shields.io/badge/APP--DEV-B-yellow?logo=APPLE&labelColor=000)
-
 ![GIS](https://img.shields.io/badge/GIS--DEV-A-green?&logo=qgis&labelColor=000)
 ![Arduino](https://img.shields.io/badge/Arduino-A-green?&logo=Arduino&labelColor=000)
-![ethereum](https://img.shields.io/badge/Web3-B-yellow?&logo=ethereum&labelColor=000)
-
 ![management](https://img.shields.io/badge/Management-A-green?&logo=personio&labelColor=000)
+
+![ethereum](https://img.shields.io/badge/Ethereum-B-yellow?&logo=ethereum&labelColor=000)
+![BackEnd-DEV](https://img.shields.io/badge/BackEnd--DEV-B-yellow?logo=linux&labelColor=000)
+![APP-DEV](https://img.shields.io/badge/APP--DEV-B-yellow?logo=APPLE&labelColor=000)
 ![Production](https://img.shields.io/badge/Product-B-yellow?&logo=producthunt&labelColor=000)
 ![Design](https://img.shields.io/badge/Design-B-yellow?&logo=sketch&labelColor=000)
 
@@ -45,18 +44,17 @@
 
 
 ![Vue](https://img.shields.io/badge/Vue-A-green?&logo=Vuedotjs&labelColor=000)
-![React](https://img.shields.io/badge/React-B-yellow?&logo=React&labelColor=000)
-![NextJS](https://img.shields.io/badge/Next.js-B-yellow?&logo=NextdotJS&labelColor=000)
-
 ![DeckGL](https://img.shields.io/badge/Deck.gl-A-green?&logo=webgl&labelColor=000)
+![NestJS](https://img.shields.io/badge/NestJs-A-green?&logo=NestJS&labelColor=000)
+
 ![web.js](https://img.shields.io/badge/web3.js-B-yellow?&logo=web3dotjs&labelColor=000)
 ![ethers.js](https://img.shields.io/badge/ethers.js-B-yellow?&logo=ethereum&labelColor=000)
-
-![NestJS](https://img.shields.io/badge/NestJs-A-green?&logo=NestJS&labelColor=000)
+![React](https://img.shields.io/badge/React-B-yellow?&logo=React&labelColor=000)
+![NextJS](https://img.shields.io/badge/Next.js-B-yellow?&logo=NextdotJS&labelColor=000)
 ![Prisma](https://img.shields.io/badge/Prisma-B-yellow?&logo=Prisma&labelColor=000)
 ![GraphQL](https://img.shields.io/badge/GraphQL-B-yellow?&logo=GraphQL&labelColor=000)
 
-![Hugo](https://img.shields.io/badge/Hugo-B-yellow?&logo=Hugo&labelColor=000)
+![Hugo](https://img.shields.io/badge/Hugo-C-orange?&logo=Hugo&labelColor=000)
 
 
 **Social Media**
