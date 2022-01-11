@@ -56,9 +56,10 @@
 
 <p align="left">
 <a href="https://yootou.com"><img src="https://img.shields.io/badge/-Blog-000?logo=hugo" alt="Blog"></a>
-<a><img src="https://img.shields.io/badge/-yutou--963-black?logo=wechat" alt="Wechat: yutou-963"></a>
+
 <a href="https://github.com/yu-tou"><img src="https://img.shields.io/badge/-GitHub-000?logo=GitHub" alt="GitHub"></a>
 <a href="https://zhihu.com/people/li-shou-xin"><img src="https://img.shields.io/badge/-知乎-000?logo=zhihu" alt="知乎"></a>
+  <img src="https://img.shields.io/badge/-yutou--963-black?logo=wechat" alt="Wechat: yutou-963">
 </p>
 
 **My Side Product**
