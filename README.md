@@ -13,7 +13,7 @@ MY BLOG：https://yootou.com
 **Social Media**
 
 <p align="left">
-<a href="https://yootou.com"><img src="https://img.shields.io/badge/-GitHub-000?logo=Blog" alt="Blog"></a>
+<a href="https://yootou.com"><img src="https://img.shields.io/badge/-Blog-000?logo=Blog" alt="Blog"></a>
 <a href="https://github.com/yu-tou"><img src="https://img.shields.io/badge/-GitHub-000?logo=GitHub" alt="GitHub"></a>
 <a href="https://zhihu.com/people/li-shou-xin"><img src="https://img.shields.io/badge/-知乎-000?logo=zhihu" alt="知乎"></a>
 <a href="mailto:xinyu198736@gmail.com"><img src="https://img.shields.io/badge/-GMail-000?logo=Gmail" alt="GMail"></a>
