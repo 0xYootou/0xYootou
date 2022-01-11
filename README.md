@@ -2,21 +2,45 @@ MY BLOG：https://yootou.com
 
 **Languages**
 
-![C++](https://img.shields.io/badge/-C++-000?&logo=C++)
+
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
+![Nodejs](https://img.shields.io/badge/-Nodejs-000?&logo=Node)
+![Dart](https://img.shields.io/badge/-Dart-000?&logo=Dart)
 ![ObjectiveC](https://img.shields.io/badge/-ObjectiveC-000?&logo=apple)
 ![Swift](https://img.shields.io/badge/-Swift-000?&logo=Swift)
+![C++](https://img.shields.io/badge/-C++-000?&logo=C++)
 ![Java](https://img.shields.io/badge/-Java-000?&logo=Java)
+
+**Skill**
+
+![GIS](https://img.shields.io/badge/-GIS-000?&logo=GIS)
+![Arduino](https://img.shields.io/badge/-Arduino-000?&logo=Arduino)
+![WEB3](https://img.shields.io/badge/-Web3-000?&logo=Web3)
+![Production](https://img.shields.io/badge/-Product-000?&logo=Product)
+![management](https://img.shields.io/badge/-management-000?&logo=management)
+![Design](https://img.shields.io/badge/-Design-000?&logo=Design)
+
+
+**Framework**
+
+![NestJS](https://img.shields.io/badge/-NestJS-000?&logo=NestJS)
+![NextJS](https://img.shields.io/badge/-NextJS-000?&logo=NextJS)
+![DeckGL](https://img.shields.io/badge/-DeckGL-000?&logo=DeckGL)
+![Hugo](https://img.shields.io/badge/-Hugo-000?&logo=Hugo)
+![Vue](https://img.shields.io/badge/-Vue-000?&logo=Vue)
+![React](https://img.shields.io/badge/-React-000?&logo=React)
+
 
 
 **Social Media**
 
 <p align="left">
 <a href="https://yootou.com"><img src="https://img.shields.io/badge/-Blog-000?logo=Blog" alt="Blog"></a>
+<a><img src="https://img.shields.io/badge/-yutou--963-black?logo=wechat" alt="Wechat: yutou-963"></a>
 <a href="https://github.com/yu-tou"><img src="https://img.shields.io/badge/-GitHub-000?logo=GitHub" alt="GitHub"></a>
 <a href="https://zhihu.com/people/li-shou-xin"><img src="https://img.shields.io/badge/-知乎-000?logo=zhihu" alt="知乎"></a>
-<a href="mailto:xinyu198736@gmail.com"><img src="https://img.shields.io/badge/-GMail-000?logo=Gmail" alt="GMail"></a>
+
 </p>
 
 **Vistor counts**
@@ -33,7 +57,6 @@ me.sex('boy');
 // contact me 
 me.city('杭州');
 me.email('xinyu198736@gmail.com');
-me.phone('13067960669');
 me.wechat('yutou-963');
 // my social media
 me.github('http://github.com/yu-tou');
