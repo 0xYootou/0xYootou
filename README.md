@@ -1,5 +1,29 @@
 MY BLOG：https://yootou.com
 
+**Languages**
+
+![C++](https://img.shields.io/badge/-C++-000?&logo=C++)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
+![ObjectiveC](https://img.shields.io/badge/-ObjectiveC-000?&logo=apple)
+![Swift](https://img.shields.io/badge/-Swift-000?&logo=Swift)
+![Java](https://img.shields.io/badge/-Java-000?&logo=Java)
+
+
+**Social Media**
+
+<p align="left">
+<a href="https://yootou.com"><img src="https://img.shields.io/badge/-GitHub-000?logo=Blog" alt="Blog"></a>
+<a href="https://github.com/yu-tou"><img src="https://img.shields.io/badge/-GitHub-000?logo=GitHub" alt="GitHub"></a>
+<a href="https://zhihu.com/people/li-shou-xin"><img src="https://img.shields.io/badge/-知乎-000?logo=zhihu" alt="知乎"></a>
+<a href="mailto:xinyu198736@gmail.com"><img src="https://img.shields.io/badge/-GMail-000?logo=Gmail" alt="GMail"></a>
+</p>
+
+**Vistor counts**
+
+<a href="https://github.com/yu-tou"><img src="https://visitor-badge.glitch.me/badge?page_id=yutougithub" alt="Vistor"></a>
+
+
 ```javascript
 const me = new Coder();
 // who am i?
