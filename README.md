@@ -19,7 +19,7 @@ MY BLOG：https://yootou.com
 ![ethereum](https://img.shields.io/badge/-Web3-000?&logo=ethereum)
 ![Arduino](https://img.shields.io/badge/-Arduino-000?&logo=Arduino)
 ![Production](https://img.shields.io/badge/-Product-000?&logo=producthunt)
-![management](https://img.shields.io/badge/-management-000?&logo=personio)
+![management](https://img.shields.io/badge/-Management-000?&logo=personio)
 ![Design](https://img.shields.io/badge/-Design-000?&logo=sketch)
 
 
