@@ -20,13 +20,18 @@
 
 **Skill**
 
-![Full Stack](https://img.shields.io/badge/-Full--Stack-000?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAAAAXNSR0IArs4c6QAABItJREFUaEPVmYFxFTcQhncrSFwBuILgCggVhFSQuAKggoQKAhWAK8CuIFBBoAKggjgV/Mx3s3ujd757J+nJk0Ezb+x7Tzrp3/3312rlNrhJ+sXMnprZo/gww8f4XLv7zcgpfeTLJP1TLHrr1R/d/WLUvKMBKBb2Aou7+3ueJeGNn83sL57dfdi8Q14k6Tcz+9PMHh5boKQE+IX+7n51qidOAiCJBb8J685r2bJwASD74qFLdwdQV+sGELT428x+NLOv4QHAbFKkAHAZ/R+Y2a2ZPXF3Ar25dQGQhMq8i9mgwXN3v80F7nmA3yUB/K2ZoVo0QEwx09KaASwsf+Xuv+eELQCKMYAghro80QMA2qAoN+6OJ+bWAyBU6jo88d7dn9ybByRhbXgO5x9BmwWAicfujmzeaZKwNr/PXgsA0ImxxARBPfWraU0ekPQ5pLJpkpqFFMb54u7nNWMmY9R2lARtoM9Xd5/0fnSThJzihYtaVWoBwEb1h5m9dvfnoxcfVHplZs/M7KW7M99uawGAxD02s1/dnaAb3gp5/uDueHy3tQD4Nzatavfuzr7oEBJNQlgdBy0ApjxmZCK2BnBPipdjdgFUpsitxq7tv5t61wBAn3+qnXFwv09be0rOswugXJCkDOSuvOUYuEKmqwN4onSLxSRlIJ8td+GW92xwn72FjbI6gHsAJJ2GK1GhQLu0KQ3Q6oHvnkKZNd5nLnQnyz1Gz1YPZDbaNElNfEjqMk4rgAy0oRtanM4QCNp5yxm5CQBvL6R0GI2KVLpJQptVKADkeZjUFzU6ONTU0GWxt3CYQT7527y/NHsgQGTeXp32bgGTlGl6k3x27cQ5qNg1+ap7Tyi0n/c0W7+LQgWIPHx0USkCl9QZYeg+JHVRKGiUR0we2aGxYFU8xOI5nubhv8v6p3qgBFANYmXx3fQ5FUAGH/V+aEDKjQeQ19UjZxwZKcugOJ/CcxS1usXgFArNZ2Qz438WzZmZxvOrvMyISw8KAXnO/RCXIDxTomzW/24VCgpQOciqwaxCIYks9IcN2fwvgE1jFyrEdwRzVRw1A4iFU4id7wHS2mU5MPqV3si5JquXC5SUZcrsM90bRNmyCsguheIOgHoQOzDcpbEYJmKhWHtWEUl4B4ml5QUGPKdRxX69UDG8wrt5X1KQxfNuYuPo3cEmgOAt2WdZwGXhcHsK0mIXnYqykgjQrHvOgVn0Y9hbd78srF/2Yy4omEDoz1yMWb0cPACwYe20JFdCB9YIuvAdXmAvKIu68+YkKTe9kiooF9Z/uFIk5jc8kp5j3KpXZgCLuj8DkDmqxKDf5GORSTKGBWHB6aZmpXEzA5gM8qMZbRgIj/LJysjBPcIEIDpmRoir4Gr1vZWkvB6CAkyQuf0Sw1nE0UTBvZJJOTjYAXiEhDk4N9wmgHlTWl5abFhy8+u18sjIckxxcptiJwEMO6wXlJqPnb3HxTUrLQ2UAIbVPQvFWVOh7pQhwRTHz1t3P7sPAHcO52teaaXmIh5mg98HgDt07C0bboEsK9gHAE6xyv8xllL/dw/gGwBddE9Ul67dAAAAAElFTkSuQmCC)
-![GIS](https://img.shields.io/badge/-GIS--DEV-000?&logo=qgis)
-![ethereum](https://img.shields.io/badge/-Web3-000?&logo=ethereum)
-![Arduino](https://img.shields.io/badge/-Arduino-000?&logo=Arduino)
-![Production](https://img.shields.io/badge/-Product-000?&logo=producthunt)
-![management](https://img.shields.io/badge/-Management-000?&logo=personio)
-![Design](https://img.shields.io/badge/-Design-000?&logo=sketch)
+![FrontEnd-DEV](https://img.shields.io/badge/FrontEnd--DEV-A-green?logo=HTML5&labelColor=000)
+![BackEnd-DEV](https://img.shields.io/badge/BackEnd--DEV-B-green?logo=linux&labelColor=000)
+![APP-DEV](https://img.shields.io/badge/APP--DEV-B-green?logo=APPLE&labelColor=000)
+
+![GIS](https://img.shields.io/badge/GIS--DEV-A-green?&logo=qgis&labelColor=000)
+![Arduino](https://img.shields.io/badge/Arduino-A-green?&logo=Arduino&labelColor=000)
+![ethereum](https://img.shields.io/badge/Web3-B-green?&logo=ethereum&labelColor=000)
+
+
+![Production](https://img.shields.io/badge/Product-B-green?&logo=producthunt&labelColor=000)
+![management](https://img.shields.io/badge/Management-B-green?&logo=personio&labelColor=000)
+![Design](https://img.shields.io/badge/Design-B-green?&logo=sketch&labelColor=000)
 
 
 **Framework**
@@ -51,8 +56,13 @@
 <a><img src="https://img.shields.io/badge/-yutou--963-black?logo=wechat" alt="Wechat: yutou-963"></a>
 <a href="https://github.com/yu-tou"><img src="https://img.shields.io/badge/-GitHub-000?logo=GitHub" alt="GitHub"></a>
 <a href="https://zhihu.com/people/li-shou-xin"><img src="https://img.shields.io/badge/-知乎-000?logo=zhihu" alt="知乎"></a>
-
 </p>
+
+**My Side Product**
+
+[![260 期语音故事，10W+ 用户，还在更新中](https://img.shields.io/badge/喵老师绘本故事-A-green?&logo=ios&labelColor=000)](https://apps.apple.com/cn/app/id998079819)
+[![上个时代最火的前端社区，后因工作原因荒废，评论内容都已清空，文章都还在](https://img.shields.io/badge/前端乱炖-A-green?&logo=chrome&labelColor=000)](http://html-js.com)
+[![百万用户，已出售，甲方破产下架无法重新上架](https://img.shields.io/badge/颜文字输入法-A-green?&logo=ios&labelColor=000)]()
 
 **Vistor counts**
 
