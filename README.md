@@ -81,6 +81,7 @@
 
 <a href="https://github.com/yu-tou"><img src="https://visitor-badge.glitch.me/badge?page_id=yutougithub" alt="Vistor"></a>
 
+
 ----
 
 ```javascript
@@ -112,3 +113,21 @@ me.major('电子科学与技术');
 // others
 me.isMarry = true;
 ```
+
+
+<p >
+    <a href="https://github.com/georgebawesome">
+    <img src="https://github-readme-stats.vercel.app/api?username=yu-tou&theme=prussian&show_icons=true&count_private=true&hide_border=true">
+  </a>
+</p>
+<p >
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=yu-tou&layout=compact&theme=prussian">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yu-tou&layout=compact&theme=prussian">
+  </a>
+</p>
+
+<p>
+  <a href="https://activity-graph.herokuapp.com/graph?username=yu-tou&custom_title=George's%20Activity%20Graph&theme=github&hide_border=true">
+    <img src="https://activity-graph.herokuapp.com/graph?username=yu-tou&custom_title=George's%20Activity%20Graph&theme=github&hide_border=true">
+  </a>
+</p>
