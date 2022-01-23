@@ -1,66 +1,57 @@
 
-**LINK**
+**BLOG**
 
-[![https://yootou.com](https://img.shields.io/badge/my%20blog-yootou.com-red?&labelColor=000&logo=data:image/png;base64,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)](https://yootou.com)
-
-
-[![http://html-js.com](https://img.shields.io/badge/html--js.com-red?&labelColor=000&logo=googlechrome)](http://html-js.com)
-[![http://miaoabc.com](https://img.shields.io/badge/miaoabc.com-red?&labelColor=000&logo=googlechrome)](http://miaoabc.com)
-[![http://meta-apps.io](https://img.shields.io/badge/meta--apps.io-red?&labelColor=000&logo=bitcoin)](http://meta-apps.io)
-[![http://meta-apps.app](https://img.shields.io/badge/meta--apps.app-red?&labelColor=000&logo=bitcoin)](http://meta-apps.app)
-
-----
-
-![](https://img.shields.io/badge/天天用-A-green?&labelColor=000)
-![](https://img.shields.io/badge/经常用-B-yellow?&labelColor=000)
-![](https://img.shields.io/badge/偶尔用-C-orange?&labelColor=000)
-![](https://img.shields.io/badge/有些日子不用了-D-red?&labelColor=000)
+[![https://yootou.com](https://img.shields.io/badge/-yootou.com-red?&labelColor=red&logo=data:image/png;base64,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)](https://yootou.com)
 
 
 **Languages**
 
-![JavaScript](https://img.shields.io/badge/JavaScript-A-green?&logo=JavaScript&labelColor=000)
-![TypeScript](https://img.shields.io/badge/TypeScript-A-green?&logo=TypeScript&labelColor=000)
-![Nodejs   ](https://img.shields.io/badge/Nodejs%20%20%20%20-A-green?&logo=nodedotjs&labelColor=000)
+![JavaScript](https://img.shields.io/badge/日常:-red)
+![JavaScript](https://img.shields.io/badge/JavaScript-000?&logo=JavaScript&labelColor=000)
+![TypeScript](https://img.shields.io/badge/TypeScript-000?&logo=TypeScript&labelColor=000)
+![Nodejs   ](https://img.shields.io/badge/Nodejs%20%20%20%20-000?&logo=nodedotjs&labelColor=000)
 
-![Java](https://img.shields.io/badge/Java-B-yellow?&logo=Java&labelColor=000)
-![ObjectiveC](https://img.shields.io/badge/ObjectiveC-B-yellow?&logo=apple&labelColor=000)
 
-![Dart](https://img.shields.io/badge/Dart-C-orange?&logo=Dart&labelColor=000)
-![C++](https://img.shields.io/badge/C++-C-orange?&logo=C++&labelColor=000)
-
-![Swift](https://img.shields.io/badge/Swift-D-orange?&logo=Swift&labelColor=000)
+![JavaScript](https://img.shields.io/badge/偶尔:-red)
+![ObjectiveC](https://img.shields.io/badge/ObjectiveC-000?&logo=apple&labelColor=000)
+![Dart](https://img.shields.io/badge/Dart-000?&logo=Dart&labelColor=000)
+![Java](https://img.shields.io/badge/Java-000?&logo=Java&labelColor=000)
+![C++](https://img.shields.io/badge/C++-000?&logo=C++&labelColor=000)
 
 
 **Skill**
 
-![FrontEnd-DEV](https://img.shields.io/badge/FrontEnd--DEV-A-green?logo=HTML5&labelColor=000)
-![GIS](https://img.shields.io/badge/GIS--DEV-A-green?&logo=qgis&labelColor=000)
-![Arduino](https://img.shields.io/badge/Arduino-A-green?&logo=Arduino&labelColor=000)
-![management](https://img.shields.io/badge/Management-A-green?&logo=personio&labelColor=000)
 
-![ethereum](https://img.shields.io/badge/Ethereum-B-yellow?&logo=ethereum&labelColor=000)
-![BackEnd-DEV](https://img.shields.io/badge/BackEnd--DEV-B-yellow?logo=linux&labelColor=000)
-![APP-DEV](https://img.shields.io/badge/APP--DEV-B-yellow?logo=APPLE&labelColor=000)
-![Production](https://img.shields.io/badge/Product-B-yellow?&logo=producthunt&labelColor=000)
-![Design](https://img.shields.io/badge/Design-B-yellow?&logo=sketch&labelColor=000)
+![JavaScript](https://img.shields.io/badge/日常:-red)
+![Fullstack-DEV](https://img.shields.io/badge/Fullstack--DEV-000?logo=HTML5&labelColor=000)
+![GIS](https://img.shields.io/badge/GIS--DEV-000?&logo=qgis&labelColor=000)
+![Management](https://img.shields.io/badge/Management-000?&logo=personio&labelColor=000)
+![Production](https://img.shields.io/badge/Product-000?&logo=producthunt&labelColor=000)
+![ethereum](https://img.shields.io/badge/Ethereum-000?&logo=ethereum&labelColor=000)
+
+
+
+![JavaScript](https://img.shields.io/badge/偶尔:-red)
+![Arduino](https://img.shields.io/badge/Arduino-000?&logo=Arduino&labelColor=000)
+![APP-DEV](https://img.shields.io/badge/APP--DEV-000?logo=APPLE&labelColor=000)
+![BackEnd-DEV](https://img.shields.io/badge/BackEnd--DEV-000?logo=linux&labelColor=000)
+![Design](https://img.shields.io/badge/Design-000?&logo=figma&labelColor=000)
 
 
 **Framework**
 
 
-![Vue](https://img.shields.io/badge/Vue-A-green?&logo=Vuedotjs&labelColor=000)
-![DeckGL](https://img.shields.io/badge/Deck.gl-A-green?&logo=webgl&labelColor=000)
-![NestJS](https://img.shields.io/badge/NestJs-A-green?&logo=NestJS&labelColor=000)
+![Vue](https://img.shields.io/badge/-Vue-000?&logo=Vuedotjs&labelColor=000)
+![React](https://img.shields.io/badge/React-000?&logo=React&labelColor=000)
+![NextJS](https://img.shields.io/badge/Next.js-000?&logo=NextdotJS&labelColor=000)
+![DeckGL](https://img.shields.io/badge/-Deck.gl-000?&logo=webgl&labelColor=000)
+![ethers.js](https://img.shields.io/badge/ethers.js-000?&logo=ethereum&labelColor=000)
+![web3.js](https://img.shields.io/badge/web3.js-000?&logo=web3dotjs&labelColor=000)
 
-![web.js](https://img.shields.io/badge/web3.js-B-yellow?&logo=web3dotjs&labelColor=000)
-![ethers.js](https://img.shields.io/badge/ethers.js-B-yellow?&logo=ethereum&labelColor=000)
-![React](https://img.shields.io/badge/React-B-yellow?&logo=React&labelColor=000)
-![NextJS](https://img.shields.io/badge/Next.js-B-yellow?&logo=NextdotJS&labelColor=000)
-![Prisma](https://img.shields.io/badge/Prisma-B-yellow?&logo=Prisma&labelColor=000)
-![GraphQL](https://img.shields.io/badge/GraphQL-B-yellow?&logo=GraphQL&labelColor=000)
-
-![Hugo](https://img.shields.io/badge/Hugo-C-orange?&logo=Hugo&labelColor=000)
+![NestJS](https://img.shields.io/badge/NestJs-000?&logo=NestJS&labelColor=000)
+![Prisma](https://img.shields.io/badge/Prisma-000?&logo=Prisma&labelColor=000)
+![GraphQL](https://img.shields.io/badge/GraphQL-000?&logo=GraphQL&labelColor=000)
+![Hugo](https://img.shields.io/badge/Hugo-000?&logo=Hugo&labelColor=000)
 
 
 **Social Media**
@@ -85,55 +76,21 @@
 
 **My eWallet Address**
 
-![http://meta-apps.eth](https://img.shields.io/badge/BuyMeACoffee-meta--apps.eth-red?&labelColor=000&logo=bitcoin)
-
-----
-
-```javascript
-const me = new Coder();
-// who am i?
-me.nick('芋头');
-me.name('孙信宇');
-me.sex('boy');
-// contact me 
-me.city('杭州');
-me.email('xinyu198736@gmail.com');
-me.wechat('yutou-963');
-// my social media
-me.github('http://github.com/yu-tou');
-me.blog('https://yootou.com');
-me.zhihu('https://zhihu.com/people/li-shou-xin')
-// my skill
-me.language('JS/NodeJS/OC/Java/Dart/c++等');
-me.skill('可视化/跨端/GIS/工程化/全栈/区块链/arduino/团队管理等');
-// my company
-me.company({
-  2020: '预策科技 技术总监',
-  2013: '大搜车 资深技术专家',
-  2009: '淘宝 前端开发',
-});
-// my school
-me.school('南京理工大学');
-me.major('电子科学与技术');
-// others
-me.isMarry = true;
-```
-
-
+![http://meta-apps.eth](https://img.shields.io/badge/-meta--apps.eth-000?&labelColor=000&logo=bitcoin)
 
 <p >
     <a href="https://github.com/georgebawesome">
-    <img src="https://github-readme-stats.vercel.app/api?username=yu-tou&theme=prussian&show_icons=true&count_private=true&hide_border=true">
+    <img src="https://github-readme-stats.vercel.app/api?username=yu-tou&theme=prussian&show_icons=true&count_private=true&hide_border=true"  width="400">
   </a>
 </p>
 <p >
   <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=yu-tou&layout=compact&theme=prussian">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yu-tou&layout=compact&theme=prussian">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yu-tou&layout=compact&theme=prussian"  width="400">
   </a>
 </p>
 
 <p>
-  <a href="https://activity-graph.herokuapp.com/graph?username=yu-tou&custom_title=George's%20Activity%20Graph&theme=github&hide_border=true">
-    <img src="https://activity-graph.herokuapp.com/graph?username=yu-tou&custom_title=George's%20Activity%20Graph&theme=github&hide_border=true">
+  <a href="https://activity-graph.herokuapp.com/graph?username=yu-tou&theme=github&hide_border=true">
+    <img src="https://activity-graph.herokuapp.com/graph?username=yu-tou&theme=github&hide_border=true" width="400">
   </a>
 </p>
