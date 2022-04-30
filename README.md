@@ -8,6 +8,7 @@
 
 
 ![click to visit or buy it](https://img.shields.io/badge/click%20to%20visit%20or%20buy%20it:-red)
+[![eventsdao.com](https://img.shields.io/badge/-twitter3.eth-000?&labelColor=000)](twitter3.eth)
 [![eventsdao.com](https://img.shields.io/badge/-EventsDAO.com-000?&labelColor=000)](https://eventsdao.com)
 [![eventsdao.com](https://img.shields.io/badge/-TalksDAO.com-000?&labelColor=000)](https://talksdao.com)
 [![eventsdao.com](https://img.shields.io/badge/-HacksDAO.com-000?&labelColor=000)](https://hacksdao.com)
@@ -22,7 +23,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?&logo=JavaScript&labelColor=000)
 ![TypeScript](https://img.shields.io/badge/TypeScript-000?&logo=TypeScript&labelColor=000)
 ![Nodejs   ](https://img.shields.io/badge/Nodejs%20%20%20%20-000?&logo=nodedotjs&labelColor=000)
-
+![Nodejs   ](https://img.shields.io/badge/Solidity%20%20%20%20-000?&logo=solidity&labelColor=000)
 
 ![JavaScript](https://img.shields.io/badge/偶尔:-red)
 ![ObjectiveC](https://img.shields.io/badge/ObjectiveC-000?&logo=apple&labelColor=000)
@@ -57,6 +58,7 @@
 ![React](https://img.shields.io/badge/React-000?&logo=React&labelColor=000)
 ![NextJS](https://img.shields.io/badge/Next.js-000?&logo=NextdotJS&labelColor=000)
 ![DeckGL](https://img.shields.io/badge/-Deck.gl-000?&logo=webgl&labelColor=000)
+![ethers.js](https://img.shields.io/badge/hardhat-000?&logo=ethereum&labelColor=000)
 ![ethers.js](https://img.shields.io/badge/ethers.js-000?&logo=ethereum&labelColor=000)
 ![web3.js](https://img.shields.io/badge/web3.js-000?&logo=web3dotjs&labelColor=000)
 
@@ -68,7 +70,7 @@
 
 **Social Media**
 
-<p align="left">
+<p align="left"><a href="https://twitter.com/0xYootou"><img src="https://img.shields.io/badge/-Twitter-000?logo=twitter" alt="Blog"></a>
 <a href="https://yootou.com"><img src="https://img.shields.io/badge/-Blog-000?logo=hugo" alt="Blog"></a>
 <a href="https://github.com/yu-tou"><img src="https://img.shields.io/badge/-GitHub-000?logo=GitHub" alt="GitHub"></a>
 <a href="https://zhihu.com/people/li-shou-xin"><img src="https://img.shields.io/badge/-知乎-000?logo=zhihu" alt="知乎"></a>
