@@ -85,17 +85,17 @@
 
 <p >
     <a href="https://github.com/georgebawesome">
-    <img src="https://github-readme-stats.vercel.app/api?username=yu-tou&theme=prussian&show_icons=true&count_private=true&hide_border=true"  width="400">
+    <img src="https://github-readme-stats.vercel.app/api?username=0xYootou&theme=prussian&show_icons=true&count_private=true&hide_border=true"  width="400">
   </a>
 </p>
 <p >
-  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=yu-tou&layout=compact&theme=prussian">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yu-tou&layout=compact&theme=prussian"  width="400">
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=0xYootou&layout=compact&theme=prussian">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xYootou&layout=compact&theme=prussian"  width="400">
   </a>
 </p>
 
 <p>
-  <a href="https://activity-graph.herokuapp.com/graph?username=yu-tou&theme=github&hide_border=true">
-    <img src="https://activity-graph.herokuapp.com/graph?username=yu-tou&theme=github&hide_border=true" width="400">
+  <a href="https://activity-graph.herokuapp.com/graph?username=0xYootou&theme=github&hide_border=true">
+    <img src="https://activity-graph.herokuapp.com/graph?username=0xYootou&theme=github&hide_border=true" width="400">
   </a>
 </p>
