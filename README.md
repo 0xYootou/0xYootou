@@ -27,9 +27,10 @@
 ![JavaScript](https://img.shields.io/badge/日常:-red)
 ![Fullstack-DEV](https://img.shields.io/badge/Fullstack--DEV-000?logo=HTML5&labelColor=000)
 ![GIS](https://img.shields.io/badge/GIS--DEV-000?&logo=qgis&labelColor=000)
+![ethereum](https://img.shields.io/badge/Web3--DEV-000?&logo=ethereum&labelColor=000)
 ![Management](https://img.shields.io/badge/Management-000?&logo=personio&labelColor=000)
 ![Production](https://img.shields.io/badge/Product-000?&logo=producthunt&labelColor=000)
-![ethereum](https://img.shields.io/badge/Ethereum-000?&logo=ethereum&labelColor=000)
+
 
 
 
